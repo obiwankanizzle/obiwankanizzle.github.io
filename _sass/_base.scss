@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    
 }
 
 
@@ -202,3 +203,17 @@ pre {
         }
     }
 }
+
+.home-background {
+    content: url(../img/metal2.jpg);
+}
+.container {
+    width: 100%;
+    height: 1024px;
+    
+}
+.container:after {
+        content: "";
+        display: table;
+        clear: both;
+    }

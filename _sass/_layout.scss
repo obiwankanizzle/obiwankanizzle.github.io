@@ -234,3 +234,34 @@
         }
     }
 }
+
+
+.sidebar {
+    /*border: 1px solid blue;*/
+    height:1024px;
+    width:15%;
+    float:left;
+}
+.main-middle {
+    /*border: 1px solid green;*/
+    height:1024px;
+    float:left;
+    width:60%;
+}
+.widgets {
+   /* border:1px solid pink;*/
+    height:1024px;
+    float:left;
+    width:21%;
+}
+footer {
+    clear:both;
+}
+.bio-pg {
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom:10px;
+}
+.wrapper {
+    
+}
