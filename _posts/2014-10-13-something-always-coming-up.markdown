@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Something always coming up
-date:   2014-10-13
+date:   2014-10-13 12:20 pm
 categories: jekyll update
 ---
 

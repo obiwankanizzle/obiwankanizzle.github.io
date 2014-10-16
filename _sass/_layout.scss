@@ -239,6 +239,7 @@
 .sidebar {
     /*border: 1px solid blue;*/
     height:1024px;
+    overflow: scroll;
     width:15%;
     float:left;
 }
@@ -264,4 +265,7 @@ footer {
 }
 .wrapper {
     
+}
+.bio-pics {
+    margin-top: 10px;
 }
